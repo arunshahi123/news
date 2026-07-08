@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1783532335426,
+    "title": "FIFA World Cup all-time leading scorers",
+    "description": "Lionel Messi, Kylian Mbappe, Miroslav Klose, Ronaldo, Harry Kane, Gerd Muller and Just Fontaine among the many greats to feature.",
+    "content": "Ever since its inception in 1930, the FIFA World Cup™ has brought together the globe's greatest players in a celebration of the beautiful game.\n\nPrior to FIFA World Cup 2026™ Miroslav Klose led the overall scoring charts, but Lionel Messi has overtaken him in first place after a hat-trick – his first in the World Cup – in Argentina's opening game against Algeria. The Argentina legend followed that with a brace in the win over Austria, and further goals in their final group game with Jordan, the epic Round of 32 encounter against Cabo Verde and the enthralling Round of 16 win over Egypt.\n\nThe former Germany international is now ranked third, with Kylian Mbappe continuing his astonishing exploits at the global showpiece with a trio of braces against Senegal, Iraq and Sweden, followed by a penalty against Paraguay giving him 19 goals from a mere 19 games.\n\nHere, FIFA lists the leading marksmen in World Cup history.",
+    "image": "https://digitalhub.fifa.com/transform/e4f7a45a-344d-4751-ba79-1ca41ae6ab5d/Argentina-v-Algeria-Group-J-FIFA-World-Cup-2026?focuspoint=0.46,0.36&io=transform:fill,height:910,width:1536&quality=75",
+    "category": "Sports",
+    "breaking": false,
+    "source": "Admin",
+    "date": "2026-07-08"
+  },
+  {
+    "id": 1,
+    "title": "Welcome to Arun News",
+    "description": "This is your first news article.",
+    "content": "You can now manage your news from your backend.",
+    "image": "https://picsum.photos/800/500",
+    "category": "Technology",
+    "breaking": true,
+    "source": "Admin",
+    "date": "2026-07-08"
+  }
+]

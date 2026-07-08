@@ -59,13 +59,13 @@ const Navbar = () => {
 
             {/* Admin */}
 
-            <Link
-              to="/admin"
-              className="hover:text-red-300 flex items-center gap-2"
-            >
-              <FaUserShield />
-              {text[language].admin}
-            </Link>
+          <Link
+  to="/admin/login"
+  className="hover:text-red-300 flex items-center gap-2"
+>
+  <FaUserShield />
+  {text[language].admin}
+</Link>
           </div>
         </div>
       </div>
